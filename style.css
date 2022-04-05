@@ -1,0 +1,210 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: "PT sans , sans-sairf";
+  -webkit-font-smoothing: antialiased !important;
+}
+
+.bg-custm{
+ background-color: #2386c8
+}
+.navbar-brand img{
+	width: 135px;
+}
+#images{
+	height: 95vh;
+background-image: url(https://sa.mostaql.com/assets/images/landing/header-bg-3.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+
+}.position-relative{
+	position: relative;
+}
+.search{
+	height: 65px;
+	width: 60%;
+	padding: 6px 12px;
+    font-size: 16px;
+    line-height: 1.42857;
+    color: #555555;
+      border-radius: 4px;
+     margin-top: 10px;
+     
+   
+}
+   .button {
+   	height: 55px;
+   	left: 20.6%;
+    padding: 5px 20px;
+    border: 0;
+    top: 16px;
+    position:absolute;
+   background-color: #3A99d8;
+   }
+
+.title{
+  margin: 20px auto 30px
+}
+.how-it-work , .why-mostaql {
+  padding-top: 20px;
+  padding-bottom: 40px
+}
+.list-icon{
+  list-style: none;
+}
+.why-mostaql .why-item { 
+ 
+ text-align: center;
+ margin: 25px 0px;
+color: #fff
+
+
+ }
+
+.list-icon i{
+  background: #3A99d8;
+    border-radius: 25px;
+    color: #fff;
+    height: 20px;
+    line-height: 20px;
+    position: absolute;
+    right: -20px;
+    text-align: center;
+    
+    width: 20px;
+}
+.thumb{
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px
+ }
+ .thumb img{
+    max-width: 80px;
+    height: 84px;
+ }
+ 
+ .bg-color{
+  background: #2a86c5
+  }
+.mostaqel-section{
+ background: #f2f2f2;
+}
+
+.item{
+text-align: center;
+}
+.mostaqel-section , .question-section , .ready {
+  padding-top: 20px;
+  padding-bottom: 40px
+}
+.btn-lg{
+  border-radius: 2px;
+  border-width: 0;
+  padding: 20px 45px;
+  background-color: #fff;
+  margin-right: 30px
+}
+.footer{
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+.list{
+  list-style: none;
+}
+a{
+  color: #3a99d8
+}
+footer h4{
+  margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 1.84;
+    font-weight: 500
+}
+.list li{
+  line-height: 2;
+}
+footer .btn{
+  font-size: 14px;
+  float: right;
+  margin-left: 10px;
+  color: #fff
+
+}
+footer .btn-Io{
+  background-color: #ed5d00;
+}
+footer .btn-facebook{
+  background-color: #3b5998
+}
+footer .btn-twitter {
+  background-color: #55acee
+}
+.color-gray{
+  color: #737373;
+  font-size: 24px;
+ 
+}
+.color-gray li{
+  float: right;
+  margin-left: 10px
+}
+.color-footer{background-color:#f2f2f2;
+}
+footer .fo{
+  margin: 20px;
+  color: #777777
+}
+nav .navbar-nav  .position-cart{
+  position: relative;
+}
+  nav .navbar-nav .nav-link .cart{
+  position: absolute;
+  top:-40px;
+  right:-7px;
+  font-size:0.80rem;
+  background-color: #000;
+  color: #FFF;
+  padding: 2px 4px;
+  border-radius:50%;
+}
+ .cart-section .cart-po{
+position: relative;
+justify-content: center;
+}
+.cart-section .cart-po p{
+position: absolute;
+  top:-10px;
+  left:18px;
+  font-size:0.90rem;
+  background-color: #000;
+  color: #FFF;
+  padding: 1px 3px;
+  border-radius:50%;
+
+}
+.cart-po i{
+  cursor: pointer;
+   color:#3b5998;
+    font-size: 1.9rem;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
